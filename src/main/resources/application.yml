@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: petClinic
+netty:
+  default:
+    allocator:
+      max-order: 3
